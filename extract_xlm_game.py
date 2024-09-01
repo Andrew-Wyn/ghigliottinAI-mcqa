@@ -1,8 +1,8 @@
 import xmltodict
 import json
 
-XML_PATH="/Users/lucamoroni/Desktop/__WorkSpace/__Universita/uniroma1/BABELNET_PRETENS/src_ghigliottinAI/dev_set_2.xml"
-OUT_PATH="/Users/lucamoroni/Desktop/__WorkSpace/__Universita/uniroma1/BABELNET_PRETENS/src_ghigliottinAI/dev_set_2.json"
+XML_PATH=""
+OUT_PATH=""
 
 
 with open(XML_PATH, "r") as f:

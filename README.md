@@ -19,4 +19,4 @@ For each sample game, we created three different distractors, in that case the g
 
 Where d1, d2, d3 (the distractors) are choosen to be not compatible with the solution definition of the game.
 
-Each distractor was choosen to be related with the solution and 2 random hints (high cosine similarity with fasttext embeddings) and uncorrelated with the other 3 hints (low cosine similarity). With this setting we aim to create distractors that are not completelly random, but moreover that are not possible game solutions.
+Each distractor was choosen to be related with the solution and 3 random hints (high cosine similarity with fasttext embeddings) and uncorrelated with the other 2 hints (low cosine similarity). With this setting we aim to create distractors that are not completelly random, but moreover that are not possible game solutions.
